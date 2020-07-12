@@ -1,0 +1,6 @@
+[submodule "COVID-19"]
+	path = COVID-19
+	url = git@github.com:CSSEGISandData/COVID-19.git
+[submodule "population"]
+	path = population
+	url = git@github.com:datasets/population.git
